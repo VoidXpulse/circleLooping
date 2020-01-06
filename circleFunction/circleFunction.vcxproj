@@ -153,10 +153,11 @@
   <ItemGroup>
     <ClCompile Include="..\..\..\..\Downloads\GetData.cpp" />
     <ClCompile Include="circleFunction.cpp" />
+    <ClCompile Include="circleFunctions.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\Downloads\GetData.h" />
-    <ClInclude Include="Header.h" />
+    <ClInclude Include="circleFunctions.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
